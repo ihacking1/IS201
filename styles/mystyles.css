@@ -1,0 +1,31 @@
+.resume {
+    font-style: bold;
+    text-decoration-line: underline;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center  
+    
+    
+}
+.resumetitle{
+    font-family: cursive;
+    text-decoration-line: underline;
+    font-size: x-large;
+}
+.contactinfo{
+    text-align: center;
+    font-size:x-large;
+    font-style: bold ;
+    
+}
+.ContactInfoTitle{
+    text-decoration-line: underline;
+    
+}
+body{
+    background-color:tan;
+}
+.BackToTop{
+    text-align: center;
+}
+

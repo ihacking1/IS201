@@ -1,0 +1,37 @@
+.TableauTitle{
+    text-align: center;
+    font-style:italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+    font-size: x-large;
+    text-decoration-line: underline; 
+
+}
+
+body{
+    background-color:cornflowerblue;
+}
+.my_header{
+    background-color:grey;
+    width:100vw;
+    height: 150px;
+    
+}
+.my_body{
+    width:80vw;
+    margin-left:auto;
+    margin-right:auto; 
+}
+.my_footer{
+    width:100vw;
+    height: 100px;
+    background-color:grey;
+   
+}
+.new_class{
+    text-align:center;
+}
+.paragraphstyles{
+    text-align:center;
+    font-size:x-large;
+}
